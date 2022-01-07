@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @ValerianLukashyk
 - 👀 I’m interested in full stack developing with Node.js and making stuning 3D effects with THREE.js and Shaders.
-- 🌱 I’m currently learning MERN STACK (mongo, express, react, node) and GLShaderLanguage.
+- 🌱 I’m currently working with MERN STACK (mongo, express, react, node) and GLShaderLanguage.
 - 💞️ I’m looking to collaborate on projects which will be inspiring for me. It can be thrilling THREE.js with GLSL or long-terms React(Next).js works..
 - 📫 Feel free to contact me in any time.
 
