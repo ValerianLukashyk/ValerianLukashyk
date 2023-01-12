@@ -18,17 +18,17 @@
 </div>
 <div style="border-left:2px solid #fff;height:100% margin: 12px"></div>
 <div style="width: 75%;display: flex; flex-wrap: wrap; flex-direction: column; height: 300px; justify-content: space-evenly; align-items: center;">
-  <img style="user-select: none; -webkit-user-drag: none; pointer-events: none; height: auto; max-width: 64px; width: auto; padding: 8px" src="images/alchemy-nft.svg" alt="icon alchemy">
-  <img style="user-select: none; -webkit-user-drag: none; pointer-events: none; height: auto; max-width: 64px; width: auto; padding: 8px" src="images/bash_scripts.png" alt="icon bash_scripts">
-  <img style="user-select: none; -webkit-user-drag: none; pointer-events: none; height: auto; max-width: 64px; width: auto; padding: 8px" src="images/ethereum.svg" alt="icon ethereum">
-  <img style="user-select: none; -webkit-user-drag: none; pointer-events: none; height: auto; max-width: 64px; width: auto; padding: 8px" src="images/Linux.svg" alt="icon Linux">
-  <img style="user-select: none; -webkit-user-drag: none; pointer-events: none; height: auto; max-width: 64px; width: auto; padding: 8px" src="images/polygon-matic.png" alt="icon polygon matic">
-  <img style="user-select: none; -webkit-user-drag: none; pointer-events: none; height: auto; max-width: 64px; width: auto; padding: 8px" src="images/solidity eth.svg" alt="icon solidity eth">
-  <img style="user-select: none; -webkit-user-drag: none; pointer-events: none; height: auto; max-width: 64px; width: auto; padding: 8px" src="images/truffle-contracts.png" alt="icon truffle-contracts">
-  <img style="user-select: none; -webkit-user-drag: none; pointer-events: none; height: auto; max-width: 100px; width: auto; padding: 8px" src="images/ubuntu1.png" alt="icon ubuntu1">
-  <img style="user-select: none; -webkit-user-drag: none; pointer-events: none; height: auto; max-width: 64px; width: auto; padding: 8px" src="images/web3.png" alt="icon web3">
-  <img style="user-select: none; -webkit-user-drag: none; pointer-events: none; height: auto; max-width: 182px; width: auto; padding: 8px" src="images/Node.js2png" alt="icon Node">
-  <img style="user-select: none; -webkit-user-drag: none; pointer-events: none; height: auto; max-width: 128px; width: auto; padding: 8px" src="images/WebGL.png" alt="icon WebGL">
+  <img style="user-select: none; pointer-events: none; height: auto; max-width: 64px; width: auto; padding: 8px" src="images/alchemy-nft.svg" alt="icon alchemy">
+  <img style="user-select: none; pointer-events: none; height: auto; max-width: 64px; width: auto; padding: 8px" src="images/bash_scripts.png" alt="icon bash_scripts">
+  <img style="user-select: none; pointer-events: none; height: auto; max-width: 64px; width: auto; padding: 8px" src="images/ethereum.svg" alt="icon ethereum">
+  <img style="user-select: none; pointer-events: none; height: auto; max-width: 64px; width: auto; padding: 8px" src="images/Linux.svg" alt="icon Linux">
+  <img style="user-select: none; pointer-events: none; height: auto; max-width: 64px; width: auto; padding: 8px" src="images/polygon-matic.png" alt="icon polygon matic">
+  <img style="user-select: none; pointer-events: none; height: auto; max-width: 64px; width: auto; padding: 8px" src="images/solidity eth.svg" alt="icon solidity eth">
+  <img style="user-select: none; pointer-events: none; height: auto; max-width: 64px; width: auto; padding: 8px" src="images/truffle-contracts.png" alt="icon truffle-contracts">
+  <img style="user-select: none; pointer-events: none; height: auto; max-width: 100px; width: auto; padding: 8px" src="images/ubuntu1.png" alt="icon ubuntu1">
+  <img style="user-select: none; pointer-events: none; height: auto; max-width: 64px; width: auto; padding: 8px" src="images/web3.png" alt="icon web3">
+  <img style="user-select: none; pointer-events: none; height: auto; max-width: 182px; width: auto; padding: 8px" src="images/Node.png" alt="icon Node">
+  <img style="user-select: none; pointer-events: none; height: auto; max-width: 128px; width: auto; padding: 8px" src="images/WebGL.png" alt="icon WebGL">
 </div>
 
 </div>
